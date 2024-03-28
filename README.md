@@ -1,5 +1,4 @@
-Στόχος των εργασιών είναι η εξοικείωση με θεωρητικά και πρακτικά προβλήματα των Βάσεων
-Δεδομένων, μέσα από χρηστικά παραδείγματα. Στην πρώτη εργασία θα ασχοληθούμε με τις
-εντολές δημιουργίας ευρετηρίων και με τη χρήση του optimizer.
+The aim of the assignments is to get familiar with theoretical and practical problems of the Databases, through practical examples. 
+In the first task we will deal with indexing commands and using the optimizer.
 
-Στη δεύτερη εργασία στόχος είναι η δημιουργία μίας ολοκληρωμένης βάσης δεδομένων για μία βιβλιοθήκη.
+In the second task the goal is to create an integrated database for a library.
